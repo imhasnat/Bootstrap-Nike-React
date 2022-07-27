@@ -1,0 +1,27 @@
+/* Common Style */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Roboto:wght@400;700&display=swap');
+
+.font-primary {
+    font-family: 'Roboto', sans-serif;
+}
+
+.font-secondary {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.font-color-orange {
+    color: #FA804C;
+}
+
+.font-color-navybule {
+    color: #363958;
+}
+
+.button-background-color {
+    background-image: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border: none;
+}
+
+.header-background-color {
+    background-color: #FFF9F4;
+}
