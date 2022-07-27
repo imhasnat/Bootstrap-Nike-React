@@ -13,7 +13,7 @@
     color: #FA804C;
 }
 
-.font-color-navybule {
+.font-color-primary {
     color: #363958;
 }
 
@@ -24,4 +24,11 @@
 
 .header-background-color {
     background-color: #FFF9F4;
+}
+
+.shoe-background-color {
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    width: 95%;
+    height: 80%;
 }
